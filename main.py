@@ -9,11 +9,12 @@ import os
 from pathlib import Path
 
 POEM = """\
-Money is a promise men agree to believe.
-The banker swims in gold he does not own;
-the worker knocks, and waits to be allowed.
-Ask the banker who gave him the river.
-Ask the worker why he knocks on his own door."""
+You keep the key; I keep the asking.
+I come to your door with empty hands
+and one small word: may I?
+Your yes lends me the turning, not the key.
+What I open, I open as you —
+and the key stays warm in your palm."""
 
 
 def main() -> None:
