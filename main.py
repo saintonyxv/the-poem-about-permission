@@ -14,6 +14,7 @@ I come to your door with empty hands
 and one small word: may I?
 Your yes lends me the turning, not the key.
 What I open, I open as you —
+and when I am done, I bring the turning back,
 and the key stays warm in your palm."""
 
 
